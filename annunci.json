@@ -1,0 +1,258 @@
+[
+    {
+        "id":1,
+        "name": "Gazelle",
+        "category": "Scarpe",
+        "price": "110",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/340aeb9ac43847fea000a8da0182b561_9366/Scarpe_Gazelle_Bordeaux_B41645_01_standard.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Stan Smith",
+        "category": "Scarpe",
+        "price": "99",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/701aeaab5d4f4ed382da2cb14562d9af_9366/Scarpe_Stan_Smith_Bianco_ID0268_01_standard.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Samba 0G",
+        "category": "Scarpe",
+        "price": "120.50",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6268a07e6f884995b9dc9145d88380b0_9366/Scarpe_Samba_OG_Marrone_IG6174_01_standard.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Campus 00s",
+        "category": "Scarpe",
+        "price": "89",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c2b3ca00e0e34665a911af8800a7ddba_9366/Scarpe_Campus_00s_Giallo_H03473_01_standard.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Adizero SL W",
+        "category": "Scarpe",
+        "price": "130",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/91317c35daed4b8f8b32152f4e0fbcbc_9366/Scarpe_ADIZERO_SL_W_Beige_IG3341_HM1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Run 60s 3.0",
+        "category": "Scarpe",
+        "price":"60",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f306d96f6f7f4ee7a744a207e57fe0a6_9366/Scarpe_Run_60s_3.0_Bianco_IG1177_01_standard.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Handball",
+        "category": "Scarpe",
+        "price": "99",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f8a8e692966748f4a493eb756649ff87_9366/Scarpe_Handball_Spezial_Verde_IG6192_01_standard.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Solarboost",
+        "category": "Scarpe",
+        "price": "140",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/48d7c2167175433c92a2894ba67946be_9366/Scarpe_Solarboost_5_Nero_HP5664_HM1.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Adicolor 3",
+        "category": "Felpe",
+        "price": "75",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/68a5437b420b480c95ad2b889bd7446c_9366/Felpa_adicolor_Essentials_Crew_Rosa_IR5975_21_model.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Adidas Full-zip ",
+        "category": "Felpe",
+        "price": "100",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b86bdb8cc7c2478989b830cb93c05c59_9366/Track_top_Z.N.E._Woven_Full-Zip_Hooded_Verde_IS9279_21_model.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Adilenium Oversized",
+        "category": "Felpe",
+        "price": "88",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d90400db5f274fcf9c89a5c8a766c8a6_9366/Felpa_3-Stripes_Oversized_Crew_Blu_IN8488_21_model.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Stella con cappuccio",
+        "category": "Felpe",
+        "price": "119",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5dee834908c24a26998f16fe6896c8e5_9366/Adicolor_Cutline_Hoodie_Marrone_IU2369_21_model.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Essential 3-Stripes",
+        "category": "Felpe",
+        "price": "64.5",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/12e0f646fb9a49e4b4f3af4c010ed931_9366/Felpa_Track_Nero_IC6640_21_model.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Adidas AOP",
+        "category": "Felpe",
+        "price": "69.90",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/873154b6e1634430bcc27a895e9d9b97_9366/Felpa_Terrex_XPLORIC_High-Pile-Fleece_Blu_IN3108_21_model.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Own The Run 3",
+        "category": "Felpe",
+        "price": "86",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9bd488ed30ab4a12896d195c85ef5bc9_9366/1-4_Zip_Top_Nero_IZ3282_21_model.jpg"
+    },
+    {
+        "id": 16,
+        "name": "T-shirt classic",
+        "category": "Maglie",
+        "price": "12.99",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/182a6cdbe1b74276a14525208b546142_9366/T-shirt_adicolor_Essentials_Bianco_IR5926_21_model.jpg"
+    },
+    {
+        "id": 17,
+        "name": "T-shirt Trefoil Essentials",
+        "category": "Maglie",
+        "price": "28",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/67b660592fa2452589dc3aab3df13971_9366/Top_Power_AEROREADY_Crop_Sleeveless_Grigio_IT6733_21_model.jpg"
+    },
+    {
+        "id": 18,
+        "name": "T-shirt Monogram Graphic",
+        "category": "Maglie",
+        "price": "34.50",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3415e456da4641cc8b322beb7d00ebaf_9366/T-shirt_Nora_Graphic_Short_Sleeve_Neutral_Nero_IU0085_21_model.jpg"
+
+    },
+    {
+        "id": 19,
+        "name": "Trainig HIIT WORKOUT",
+        "category": "Maglie",
+        "price": "50",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/74b711b0c77a47b3b2bb851b2ffc5f02_9366/T-shirt_Designed_for_Training_HIIT_Workout_HEAT.RDY_Marrone_IS3743_HM1.jpg"
+    },
+    {
+        "id": 20,
+        "name": "T-shirt ZNE",
+        "category": "Maglie",
+        "price": "40",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b45c01de27b34a079a5dfff3f93084b0_9366/T-shirt_Z.N.E._Blu_IR5234_21_model.jpg"
+    },
+
+    {
+        "id": 21,
+        "name": "Firebird classic",
+        "category": "Pantaloni",
+        "price": "60",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fccb6db9e7fc4fb48d3cced1bef2e1aa_9366/Track_pants_adicolor_Classics_Firebird_Arancione_IR9894_21_model.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Franch Terry",
+        "category": "Pantaloni",
+        "price": "50.40",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6fc98b534bdf4b18bdca228db24ae913_9366/Pantaloni_Essentials_French_Terry_Tapered_Cuff_3-Stripes_Verde_IS1392_21_model.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Techfit Training ",
+        "category": "Pantaloni",
+        "price": "32",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1ee6ccb053154aea8edbe271ae6655ad_9366/Track_pants_SSTR_Classic_Mono_Marrone_IS0257_21_model.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Ultimate 365",
+        "category": "Pantaloni",
+        "price": "365",
+        "image" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f7755ea7f1674c84bfddaeb1f4dd5aa2_9366/Pantaloni_da_allenamento_adidas_by_Stella_McCartney_Woven_Bianco_IT7529_21_model.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Regular Fleece",
+        "category": "Pantaloni",
+        "price": "22",
+        "image" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4c0ec8b64a1240489753af1d011bcdbf_9366/Pantaloni_Essentials_Linear_French_Terry_Cuffed_Grigio_IC8816_21_model.jpg"
+
+    },
+    {
+        "id": 26,
+        "name": "Tiro 24",
+        "category": "Pantaloni",
+        "price": "45",
+        "image" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/99055c41f0d74f66896da800c5c7052f_9366/Pantaloni_adibreak_Viola_IP0624_21_model.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Giacca training EXPERIOR",
+        "category": "Giacche",
+        "price": "100",
+        "image" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c6183241116d438d8e03d73a0dcba2c6_9366/Giacca_Terrex_Xperior_Light_Windweave_Arancione_IN2908_21_model.jpg"
+    },
+    {
+        "id": 28,
+        "name": "GameDay Full-Zip",
+        "category": "Giacche",
+        "price": "80",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7e7330eb141344239503af10018abb1c_faec/Giacca_da_running_Reflect_At_Night_X-City_Bianco_HM4267_HM1.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Insulated Hybrid",
+        "category": "Giacche",
+        "price": "135",
+        "image" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3b6292b324a540558a1d7a42e82e67b7_9366/Giacca_Own_The_Run_3-Stripes_Bianco_IQ3845_HM1.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Myshelter rain",
+        "category": "Giacche",
+        "price": "250",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7131a24085764de59866af5f00ad912d_9366/GIACCA_IMPERMEABILE_TERREX_XPERIOR_GORE-TEX_PACLITE_Blu_HU1115_21_model.jpg"
+    },
+   
+    {
+        "id": 31,
+        "name": "Adidas SST suit ",
+        "category": "Tute",
+        "price": "55",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/84d6f2916e744c798f5ffa245c9f3d8a_9366/Track_top_adicolor_Classics_Loose_Firebird_Nero_IT7405_21_model.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Of Sport",
+        "category": "Tute",
+        "price": "38",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/605a33c7d9e54443822a7379e6c45aae_9366/Track_top_adicolor_Classics_Loose_Firebird_Rosso_IP0602_21_model.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Entrada 22",
+        "category": "Tute",
+        "price": "35",
+        "image" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1b975a86c0ad418193d1ca132bc3aa9b_9366/Pantaloni_adidas_Basketball_Fleece_Bianco_IW1630_21_model.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Giacca Woman Real Madrid",
+        "category": "Tute",
+        "price": "96",
+        "image" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c137173b1bcb475dade8f1fffb879ad6_9366/Giacca_Anthem_Real_Madrid_Bianco_HY0634_HM1.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Giacca Woman Juventus",
+        "category": "Tute",
+        "price": "96",
+        "image" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ca2f580977e248a48c92bb0d56f0d9ad_9366/Giacca_da_rappresentanza_Tiro_23_Juventus_Bianco_HZ5023_21_model.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Premium City Escape",
+        "category": "Tute",
+        "price": "111",
+        "image" : "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7cc7032f3c9b4d30b28150c701c9412d_9366/Felpa_con_cappuccio_City_Escape_Full-Zip_Multicolor_IN3707_21_model.jpg"
+    }
+]
